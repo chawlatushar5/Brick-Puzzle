@@ -1,0 +1,251 @@
+SBP-level0.txt
+
+A Star : 
+
+(2, left)
+(4, down)
+(3, right)
+(2, up)
+(2, up)
+1  2  2  1  1  
+1  0  0  3  1  
+1  0  0  4  1  
+1  1  1  1  1  
+Length of the solution: 5
+Number of nodes visited: 11
+Time taken: 0.004471000s
+
+
+SBP-level1.txt
+
+A Star : 
+
+(6, left)
+(7, left)
+(4, left)
+(5, down)
+(2, down)
+(3, right)
+(4, up)
+(2, left)
+(5, up)
+(7, right)
+(5, up)
+(7, up)
+(6, right)
+(6, right)
+(2, down)
+(2, left)
+1  1  1  1  1  
+1  4  3  5  1  
+1  0  0  7  1  
+2  2  0  6  1  
+1  1  1  1  1  
+Length of the solution: 16
+Number of nodes visited: 83
+Time taken: 0.189654000s
+
+
+SBP-level2.txt
+
+A Star : 
+
+(3, left)
+(2, left)
+(4, left)
+(7, up)
+(6, right)
+(5, up)
+(8, up)
+(6, right)
+(4, down)
+(7, left)
+(4, left)
+(7, down)
+(2, down)
+(5, left)
+(8, up)
+(2, right)
+(3, right)
+(4, up)
+(7, left)
+(4, up)
+(7, up)
+(6, left)
+(6, left)
+(2, down)
+(8, down)
+(5, right)
+(3, right)
+(7, right)
+(7, up)
+(6, up)
+(2, left)
+(2, left)
+(2, left)
+1  1  1  1  1  1  
+1  4  7  3  5  1  
+1  6  6  3  8  1  
+2  2  0  0  0  1  
+1  1  1  1  1  1  
+Length of the solution: 33
+Number of nodes visited: 704
+Time taken: 13.731703000s
+
+
+SBP-level3.txt
+
+
+A Star : 
+
+(6, left)
+(7, left)
+(10, up)
+(9, right)
+(7, down)
+(4, down)
+(3, right)
+(5, up)
+(6, up)
+(8, up)
+(7, left)
+(10, left)
+(10, down)
+(2, down)
+(3, right)
+(5, right)
+(3, right)
+(5, right)
+(6, up)
+(4, up)
+(8, up)
+(7, up)
+(10, left)
+(10, left)
+(9, left)
+(9, left)
+(2, down)
+(5, down)
+(5, right)
+(4, right)
+(8, right)
+(8, up)
+(7, up)
+(10, up)
+(9, left)
+(2, left)
+(5, down)
+(5, down)
+(3, down)
+(3, down)
+(4, right)
+(8, right)
+(7, right)
+(6, right)
+(10, up)
+(10, up)
+(9, up)
+(9, up)
+(2, left)
+(2, left)
+1  1  1  1  1  1  
+1  10  6  8  4  1  
+1  9  7  7  4  1  
+2  2  0  0  3  1  
+2  2  0  0  5  1  
+1  1  1  1  1  1  
+Length of the solution: 50
+Number of nodes visited: 2279
+Time taken: 195.839382000s
+
+
+SBP-bricks-level1.txt
+
+
+A Star : 
+
+(13, down)
+(12, down)
+(9, down)
+(8, down)
+(2, down)
+(4, left)
+(6, up)
+(3, right)
+(5, up)
+(10, up)
+(7, up)
+(14, up)
+(11, up)
+(9, right)
+(8, left)
+(2, down)
+(10, left)
+(14, up)
+(7, right)
+(11, up)
+(9, up)
+(8, up)
+(16, up)
+(15, up)
+(13, right)
+(12, left)
+(2, down)
+(2, down)
+1  1  1  1  1  1  
+1  5  3  4  6  1  
+1  11  7  10  14  1  
+1  8  0  0  9  1  
+1  15  0  0  16  1  
+1  12  2  2  13  1  
+1  1  2  2  1  1  
+Length of the solution: 28
+Number of nodes visited: 1015
+Time taken: 78.421824000s
+
+SBP-bricks-level2.txt
+
+A Star:
+
+Status: Did not finish
+Waited time: 15 minutes
+
+SBP-bricks-level3.txt
+
+A Star:
+
+Status: Did not finish
+Waited time: 15 minutes
+
+SBP-bricks-level4.txt
+
+A Star:
+
+Status: Did not finish
+Waited time: 15 minutes
+
+SBP-bricks-level5.txt
+
+A Star:
+
+Status: Did not finish
+Waited time: 15 minutes
+
+SBP-bricks-level6.txt
+
+A Star:
+
+Status: Did not finish
+Waited time: 15 minutes
+
+SBP-bricks-level7.txt
+
+A Star:
+
+Status: Did not finish
+Waited time: 15 minutes
+
+
+
+
+
